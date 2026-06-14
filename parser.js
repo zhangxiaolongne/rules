@@ -6,10 +6,14 @@
 
 const customRules = [
   "DOMAIN-KEYWORD,infini,🇭🇰 香港丨Core 01",
-  "DOMAIN-KEYWORD,etherfi,🇭🇰 香港丨Core 01",
+  "DOMAIN-KEYWORD,ether,🇭🇰 香港丨Core 01",
   "DOMAIN-KEYWORD,wirex,🇭🇰 香港丨Core 01",
   "DOMAIN-KEYWORD,chatgpt,🇭🇰 香港丨Core 01",
   "DOMAIN-KEYWORD,openai,🇭🇰 香港丨Core 01",
+  "DOMAIN-SUFFIX,chatgpt.com,🇭🇰 香港丨Core 01",
+  "DOMAIN-SUFFIX,openai.com,🇭🇰 香港丨Core 01",
+  "DOMAIN-SUFFIX,oaistatic.com,🇭🇰 香港丨Core 01",
+  "DOMAIN-SUFFIX,oaiusercontent.com,🇭🇰 香港丨Core 01",
   "DOMAIN-KEYWORD,interactivebrokers,🇭🇰 香港丨Core 01",
   "DOMAIN-KEYWORD,ibkr,🇭🇰 香港丨Core 01",
   "DOMAIN-KEYWORD,binance,🇭🇰 香港丨Core 01",
