@@ -1,4 +1,5 @@
 name: "自定义代理规则"
+desc: "AI、加密、金融站点按指定策略分流；OCBC、Wise、iFAST、Schwab 直连。"
 description: "AI、加密、金融站点按指定策略分流；OCBC、Wise、iFAST、Schwab 直连。"
 
 rules:
