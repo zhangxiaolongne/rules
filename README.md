@@ -15,7 +15,8 @@
 ## 规则备注
 
 - `etherfi` 已改为 `ether`。
-- OpenAI / ChatGPT 额外补充：`chatgpt.com`、`openai.com`、`oaistatic.com`、`oaiusercontent.com`。
+- OpenAI / ChatGPT 已有关键词规则：`chatgpt`、`openai`。
+- 额外只补充关键词覆盖不到的域名：`oaistatic.com`、`oaiusercontent.com`。
 
 ## Raw 链接
 
