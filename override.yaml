@@ -1,13 +1,13 @@
 #!name=自定义代理规则
 #!desc=AI、加密、金融站点按指定策略分流；OCBC、Wise、iFAST、Schwab 直连。
 #!category=分流规则
-#!icon=https://raw.githubusercontent.com/zhangxiaolongne/rules/main/icon.svg
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png
 
 name: "自定义代理规则"
 desc: "AI、加密、金融站点按指定策略分流；OCBC、Wise、iFAST、Schwab 直连。"
 description: "AI、加密、金融站点按指定策略分流；OCBC、Wise、iFAST、Schwab 直连。"
 category: "分流规则"
-icon: "https://raw.githubusercontent.com/zhangxiaolongne/rules/main/icon.svg"
+icon: "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png"
 
 rules:
   - "DOMAIN-KEYWORD,infini,🇭🇰 香港丨Core 01"
