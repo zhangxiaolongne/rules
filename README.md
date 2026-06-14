@@ -12,6 +12,11 @@
 - 图标使用 PNG，兼容性比 SVG 更高。
 - Stash 描述字段使用 `desc`，文件里也保留了 `description` 兼容其他客户端。
 
+## 规则备注
+
+- `etherfi` 已改为 `ether`。
+- OpenAI / ChatGPT 额外补充：`chatgpt.com`、`openai.com`、`oaistatic.com`、`oaiusercontent.com`。
+
 ## Raw 链接
 
 YAML 覆写：
