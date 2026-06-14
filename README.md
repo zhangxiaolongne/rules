@@ -1,6 +1,6 @@
 # Clash Custom Rules
 
-自定义 Clash / Mihomo 规则，避免订阅更新后手写规则被覆盖。
+自定义 Clash / Mihomo / Stash 规则，避免订阅更新后手写规则被覆盖。
 
 ## 文件
 
@@ -10,18 +10,18 @@
 - 描述：AI、加密、金融站点按指定策略分流；OCBC、Wise、iFAST、Schwab 直连。
 - Stash 描述字段使用 `desc`，文件里也保留了 `description` 兼容其他客户端。
 
-## GitHub Raw 链接格式
+## Raw 链接
 
-上传到 GitHub 后，把下面的 `<owner>` 和 `<repo>` 换成你的仓库：
+YAML 覆写：
 
 ```text
-https://raw.githubusercontent.com/<owner>/<repo>/main/override.yaml
+https://raw.githubusercontent.com/zhangxiaolongne/rules/main/override.yaml
 ```
 
-如果客户端的“覆写”要求 JavaScript Parser，用这个：
+JavaScript Parser：
 
 ```text
-https://raw.githubusercontent.com/<owner>/<repo>/main/parser.js
+https://raw.githubusercontent.com/zhangxiaolongne/rules/main/parser.js
 ```
 
 ## 注意
