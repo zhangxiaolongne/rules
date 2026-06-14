@@ -6,6 +6,8 @@
 
 - `override.yaml`: 给支持 YAML 覆写、Mixin、Merge 的客户端使用。
 - `parser.js`: 给支持 JavaScript Parser / 扩展脚本的客户端使用。
+- 名称：自定义代理规则
+- 描述：AI、加密、金融站点按指定策略分流；OCBC、Wise、iFAST、Schwab 直连。
 
 ## GitHub Raw 链接格式
 

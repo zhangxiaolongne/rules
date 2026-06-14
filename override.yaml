@@ -1,3 +1,6 @@
+name: "自定义代理规则"
+description: "AI、加密、金融站点按指定策略分流；OCBC、Wise、iFAST、Schwab 直连。"
+
 rules:
   - "DOMAIN-KEYWORD,infini,🇭🇰 香港丨Core 01"
   - "DOMAIN-KEYWORD,etherfi,🇭🇰 香港丨Core 01"
